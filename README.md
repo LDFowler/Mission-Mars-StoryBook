@@ -1,2 +1,2 @@
 # Mission-Mars-StoryBook
-Mission Mars Storybook/Brochure with html-css-js
+Mission Mars Storybook/Brochure that is flippable by clicking made with html-css-js
